@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Ssheelan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...import tensorflow as tf
+import tensorflow as tf
 from keras.preprocessing.image import ImageDataGenerator
 #Augmenting the input training images
 train_datagen = ImageDataGenerator(
